@@ -1,0 +1,2 @@
+export const STRIPE_PUBLIC_KEY = 
+"pk_test_51NU7ZPIbXLwDNEFQUp3fHHAryB7injCVhYqdklETiVc6AGTsxyMYob7WVjtIdMlTX2wt5n9z2NPho8mNTgGYfPkN00zetfnnwq";
